@@ -1,6 +1,6 @@
 ## Overview
 
-A user friendly single player game based on playing dungeon style puzzles. With a partner from my lab class, I followed an agile development process to design and implement a desktop Java application that satisfies the requirements of the client (see below). 
+A user friendly single player game based on playing dungeon style puzzles. With a partner from my lab class, I followed an agile development process to design (keeping in mind the various design patternas) and implement a desktop Java application that satisfies the requirements of the client (see below).
 
 
 ## Preliminary client requirements
